@@ -12,5 +12,4 @@ MapViewOfFile()에서 에러코드를 출력한다.
 
 멘토님이 주신 FileHelperClass를 사용해서 다음과 같이 코딩하였다. 
 
-
-
+![alt tag](https://github.com/morinori/OS_Homework2/HW1.png)
